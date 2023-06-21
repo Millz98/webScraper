@@ -52,3 +52,4 @@ app.get("/api/crypto", (req, res) => {
       res.status(500).send("Error occurred during scraping.");
     });
 });
+// Comment to test git push/pull
