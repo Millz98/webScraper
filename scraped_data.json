@@ -3,137 +3,137 @@
     "Symbol": "",
     "Name": "1",
     "MarketCap": "BitcoinBTC",
-    "Price": "$26,593.00",
-    "Volume": "0.51%",
-    "Supply": "3.14%",
-    "Change": "8.64%",
-    "Change24h": "$516.4B$516,401,222,337",
-    "Chart": "$17,600,246,998663,446 BTC",
-    "Trade": "19,465,887 BTC",
+    "Price": "$26,986.14",
+    "Volume": "0.63%",
+    "Supply": "2.76%",
+    "Change": "1.35%",
+    "Change24h": "$526.5B$526,498,739,017",
+    "Chart": "$13,976,326,949517,606 BTC",
+    "Trade": "19,498,600 BTC",
     "TotalSupply": ""
   },
   {
     "Symbol": "",
     "Name": "2",
     "MarketCap": "EthereumETH",
-    "Price": "$1,686.62",
-    "Volume": "0.20%",
-    "Supply": "3.92%",
-    "Change": "7.48%",
-    "Change24h": "$202.4B$202,401,936,702",
-    "Chart": "$8,357,744,3384,963,987 ETH",
-    "Trade": "120,214,313 ETH",
+    "Price": "$1,651.71",
+    "Volume": "0.46%",
+    "Supply": "3.62%",
+    "Change": "4.06%",
+    "Change24h": "$198.72B$198,722,485,764",
+    "Chart": "$6,541,377,2023,957,791 ETH",
+    "Trade": "120,234,937 ETH",
     "TotalSupply": ""
   },
   {
     "Symbol": "",
     "Name": "3",
     "MarketCap": "Tether USDtUSDT",
-    "Price": "$0.9997",
-    "Volume": "0.02%",
-    "Supply": "0.00%",
-    "Change": "0.08%",
-    "Change24h": "$82.82B$82,822,900,960",
-    "Chart": "$27,227,233,67827,234,753,894 USDT",
-    "Trade": "82,845,776,808 USDT",
+    "Price": "$1.00",
+    "Volume": "0.00%",
+    "Supply": "0.08%",
+    "Change": "0.01%",
+    "Change24h": "$83.28B$83,281,640,848",
+    "Chart": "$23,381,175,78523,378,249,045 USDT",
+    "Trade": "83,271,216,063 USDT",
     "TotalSupply": ""
   },
   {
     "Symbol": "",
     "Name": "4",
     "MarketCap": "BNBBNB",
-    "Price": "$217.51",
-    "Volume": "0.09%",
-    "Supply": "5.76%",
-    "Change": "7.06%",
-    "Change24h": "$33.48B$33,482,970,898",
-    "Chart": "$655,350,4453,011,279 BNB",
-    "Trade": "153,851,388 BNB",
+    "Price": "$214.90",
+    "Volume": "0.23%",
+    "Supply": "1.72%",
+    "Change": "2.10%",
+    "Change24h": "$33.07B$33,071,407,539",
+    "Chart": "$363,156,7531,689,391 BNB",
+    "Trade": "153,846,867 BNB",
     "TotalSupply": ""
   },
   {
     "Symbol": "",
     "Name": "5",
     "MarketCap": "XRPXRP",
-    "Price": "$0.5334",
-    "Volume": "1.06%",
-    "Supply": "5.12%",
-    "Change": "10.78%",
-    "Change24h": "$28.19B$28,187,017,461",
-    "Chart": "$1,110,481,4222,081,806,395 XRP",
-    "Trade": "52,841,868,447 XRP",
+    "Price": "$0.5072",
+    "Volume": "0.21%",
+    "Supply": "1.22%",
+    "Change": "0.12%",
+    "Change24h": "$27.04B$27,038,638,017",
+    "Chart": "$806,435,5391,590,057,353 XRP",
+    "Trade": "53,312,364,216 XRP",
     "TotalSupply": ""
   },
   {
     "Symbol": "",
     "Name": "6",
-    "MarketCap": "USD CoinUSDC",
+    "MarketCap": "USDCUSDC",
     "Price": "$1.00",
-    "Volume": "0.00%",
-    "Supply": "0.00%",
+    "Volume": "0.02%",
+    "Supply": "0.02%",
     "Change": "0.01%",
-    "Change24h": "$25.9B$25,900,276,369",
-    "Chart": "$4,120,325,8054,119,841,824 USDC",
-    "Trade": "25,897,234,076 USDC",
+    "Change24h": "$25.49B$25,493,981,222",
+    "Chart": "$3,069,783,0923,068,857,788 USDC",
+    "Trade": "25,486,296,744 USDC",
     "TotalSupply": ""
   },
   {
     "Symbol": "",
     "Name": "7",
     "MarketCap": "CardanoADA",
-    "Price": "$0.2678",
-    "Volume": "0.82%",
-    "Supply": "5.97%",
-    "Change": "2.30%",
-    "Change24h": "$9.39B$9,388,817,805",
-    "Chart": "$206,934,876772,701,701 ADA",
-    "Trade": "35,058,157,661 ADA",
+    "Price": "$0.2491",
+    "Volume": "0.31%",
+    "Supply": "1.73%",
+    "Change": "1.07%",
+    "Change24h": "$8.75B$8,749,192,393",
+    "Chart": "$132,270,735531,073,878 ADA",
+    "Trade": "35,128,462,329 ADA",
     "TotalSupply": ""
   },
   {
     "Symbol": "",
     "Name": "8",
     "MarketCap": "DogecoinDOGE",
-    "Price": "$0.06423",
-    "Volume": "0.14%",
-    "Supply": "4.98%",
-    "Change": "7.14%",
-    "Change24h": "$9.04B$9,037,366,561",
-    "Chart": "$318,251,0494,955,088,866 DOGE",
-    "Trade": "140,709,526,384 DOGE",
+    "Price": "$0.06135",
+    "Volume": "0.19%",
+    "Supply": "1.66%",
+    "Change": "0.04%",
+    "Change24h": "$8.66B$8,663,066,400",
+    "Chart": "$140,140,0972,284,096,646 DOGE",
+    "Trade": "141,196,426,384 DOGE",
     "TotalSupply": ""
   },
   {
     "Symbol": "",
     "Name": "9",
     "MarketCap": "SolanaSOL",
-    "Price": "$21.32",
-    "Volume": "0.39%",
-    "Supply": "5.58%",
-    "Change": "8.71%",
-    "Change24h": "$8.69B$8,693,868,337",
-    "Chart": "$444,758,18620,860,662 SOL",
-    "Trade": "407,771,798 SOL",
+    "Price": "$19.65",
+    "Volume": "0.41%",
+    "Supply": "3.64%",
+    "Change": "0.39%",
+    "Change24h": "$8.11B$8,113,707,613",
+    "Chart": "$209,931,63710,681,811 SOL",
+    "Trade": "412,844,344 SOL",
     "TotalSupply": ""
   },
   {
     "Symbol": "",
     "Name": "10",
-    "MarketCap": "TRONTRX",
-    "Price": "$0.07738",
-    "Volume": "0.36%",
-    "Supply": "3.49%",
-    "Change": "2.41%",
-    "Change24h": "$6.92B$6,917,709,090",
-    "Chart": "$203,818,6052,633,860,192 TRX",
-    "Trade": "89,394,580,032 TRX",
+    "MarketCap": "ToncoinTON",
+    "Price": "$2.25",
+    "Volume": "0.02%",
+    "Supply": "4.57%",
+    "Change": "4.02%",
+    "Change24h": "$7.72B$7,718,383,599",
+    "Chart": "$38,036,92716,912,690 TON",
+    "Trade": "3,431,892,088 TON",
     "TotalSupply": ""
   },
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "PolkadotDOT",
-    "Price": "$4.50",
+    "MarketCap": "TRONTRX",
+    "Price": "$0.09",
     "Volume": ""
   },
   {
@@ -146,8 +146,43 @@
   {
     "Symbol": "",
     "Name": "",
+    "MarketCap": "PolkadotDOT",
+    "Price": "$4.07",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
     "MarketCap": "PolygonMATIC",
-    "Price": "$0.56",
+    "Price": "$0.52",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "LitecoinLTC",
+    "Price": "$65.18",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "Bitcoin CashBCH",
+    "Price": "$238.36",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "Wrapped BitcoinWBTC",
+    "Price": "$27056.94",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "ChainlinkLINK",
+    "Price": "$7.84",
     "Volume": ""
   },
   {
@@ -160,76 +195,6 @@
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "ToncoinTON",
-    "Price": "$1.43",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "LitecoinLTC",
-    "Price": "$66.24",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "Wrapped BitcoinWBTC",
-    "Price": "$26531.32",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "Bitcoin CashBCH",
-    "Price": "$194.30",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "AvalancheAVAX",
-    "Price": "$10.41",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "UNUS SED LEOLEO",
-    "Price": "$3.84",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "StellarXLM",
-    "Price": "$0.13",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "ChainlinkLINK",
-    "Price": "$6.40",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "Binance USDBUSD",
-    "Price": "$1.00",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "UniswapUNI",
-    "Price": "$4.83",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
     "MarketCap": "TrueUSDTUSD",
     "Price": "$1.00",
     "Volume": ""
@@ -237,71 +202,106 @@
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "OKBOKB",
-    "Price": "$44.09",
+    "MarketCap": "UNUS SED LEOLEO",
+    "Price": "$3.63",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "AvalancheAVAX",
+    "Price": "$9.22",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "StellarXLM",
+    "Price": "$0.11",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "MoneroXMR",
-    "Price": "$143.84",
+    "Price": "$145.70",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "CosmosATOM",
-    "Price": "$7.49",
+    "Price": "$7.11",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "OKBOKB",
+    "Price": "$43.20",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "UniswapUNI",
+    "Price": "$4.42",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "BUSDBUSD",
+    "Price": "$1.00",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "Ethereum ClassicETC",
-    "Price": "$16.12",
+    "Price": "$15.81",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "HederaHBAR",
-    "Price": "$0.06",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "Internet ComputerICP",
-    "Price": "$3.60",
+    "Price": "$0.05",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "FilecoinFIL",
-    "Price": "$3.47",
+    "Price": "$3.29",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "MakerMKR",
+    "Price": "$1514.59",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "Lido DAOLDO",
-    "Price": "$1.71",
+    "Price": "$1.60",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "AptosAPT",
-    "Price": "$6.11",
+    "MarketCap": "Internet ComputerICP",
+    "Price": "$3.06",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "MantleMNT",
-    "Price": "$0.42",
+    "Price": "$0.40",
     "Volume": ""
   },
   {
@@ -314,15 +314,8 @@
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "ArbitrumARB",
-    "Price": "$1.02",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "QuantQNT",
-    "Price": "$100.35",
+    "MarketCap": "AptosAPT",
+    "Price": "$5.34",
     "Volume": ""
   },
   {
@@ -335,22 +328,36 @@
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "NEAR ProtocolNEAR",
-    "Price": "$1.22",
+    "MarketCap": "ArbitrumARB",
+    "Price": "$0.89",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "QuantQNT",
+    "Price": "$89.53",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "OptimismOP",
-    "Price": "$1.59",
+    "Price": "$1.32",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "MakerMKR",
-    "Price": "$1054.33",
+    "MarketCap": "NEAR ProtocolNEAR",
+    "Price": "$1.10",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "AaveAAVE",
+    "Price": "$65.93",
     "Volume": ""
   },
   {
@@ -363,22 +370,8 @@
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "AaveAAVE",
-    "Price": "$57.21",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
     "MarketCap": "AlgorandALGO",
     "Price": "$0.10",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "XDC NetworkXDC",
-    "Price": "$0.05",
     "Volume": ""
   },
   {
@@ -391,57 +384,15 @@
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "Axie InfinityAXS",
-    "Price": "$5.00",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "MultiversXEGLD",
-    "Price": "$26.57",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "The SandboxSAND",
-    "Price": "$0.33",
+    "MarketCap": "XDC NetworkXDC",
+    "Price": "$0.05",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "StacksSTX",
-    "Price": "$0.49",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "TezosXTZ",
-    "Price": "$0.71",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "EOSEOS",
-    "Price": "$0.60",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "InjectiveINJ",
-    "Price": "$7.71",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "Theta NetworkTHETA",
-    "Price": "$0.64",
+    "Price": "$0.48",
     "Volume": ""
   },
   {
@@ -454,85 +405,113 @@
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "Bitcoin SVBSV",
-    "Price": "$31.14",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "SynthetixSNX",
-    "Price": "$2.21",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "DecentralandMANA",
-    "Price": "$0.31",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "FantomFTM",
-    "Price": "$0.21",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "ApeCoinAPE",
-    "Price": "$1.53",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
     "MarketCap": "THORChainRUNE",
-    "Price": "$1.65",
+    "Price": "$1.92",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "MultiversXEGLD",
+    "Price": "$24.70",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "Theta NetworkTHETA",
+    "Price": "$0.64",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "Bitget TokenBGB",
+    "Price": "$0.46",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "Axie InfinityAXS",
+    "Price": "$4.50",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "TezosXTZ",
+    "Price": "$0.66",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "EOSEOS",
+    "Price": "$0.57",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "The SandboxSAND",
+    "Price": "$0.30",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "Bitcoin SVBSV",
+    "Price": "$32.06",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "InjectiveINJ",
+    "Price": "$7.25",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "RenderRNDR",
-    "Price": "$1.42",
+    "Price": "$1.52",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "DecentralandMANA",
+    "Price": "$0.30",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "SynthetixSNX",
+    "Price": "$2.06",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "FantomFTM",
+    "Price": "$0.19",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "NeoNEO",
-    "Price": "$7.31",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "Pax DollarUSDP",
-    "Price": "$1.00",
+    "Price": "$7.29",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "KavaKAVA",
-    "Price": "$0.70",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "Rocket PoolRPL",
-    "Price": "$24.78",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "FlowFLOW",
-    "Price": "$0.47",
+    "Price": "$0.63",
     "Volume": ""
   },
   {
@@ -545,29 +524,64 @@
   {
     "Symbol": "",
     "Name": "",
+    "MarketCap": "Pax DollarUSDP",
+    "Price": "$1.00",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
     "MarketCap": "PAX GoldPAXG",
-    "Price": "$1910.72",
+    "Price": "$1873.56",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "FlowFLOW",
+    "Price": "$0.45",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "Tether GoldXAUt",
-    "Price": "$1919.06",
+    "Price": "$1875.17",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "Curve DAO TokenCRV",
+    "Price": "$0.52",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "KuCoin TokenKCS",
-    "Price": "$4.84",
+    "Price": "$4.60",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "GalaGALA",
-    "Price": "$0.02",
+    "MarketCap": "Frax ShareFXS",
+    "Price": "$5.96",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "ApeCoinAPE",
+    "Price": "$1.19",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "Rocket PoolRPL",
+    "Price": "$22.04",
     "Volume": ""
   },
   {
@@ -580,50 +594,8 @@
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "KlaytnKLAY",
-    "Price": "$0.14",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "SuiSUI",
-    "Price": "$0.61",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "PepePEPE",
-    "Price": "$0.00",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "Frax ShareFXS",
-    "Price": "$5.95",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
     "MarketCap": "ZcashZEC",
-    "Price": "$25.59",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "CasperCSPR",
-    "Price": "$0.04",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "ConfluxCFX",
-    "Price": "$0.13",
+    "Price": "$26.38",
     "Volume": ""
   },
   {
@@ -636,15 +608,8 @@
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "Curve DAO TokenCRV",
-    "Price": "$0.48",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "BitTorrent(New)BTT",
-    "Price": "$0.00",
+    "MarketCap": "ConfluxCFX",
+    "Price": "$0.12",
     "Volume": ""
   },
   {
@@ -657,8 +622,8 @@
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "MinaMINA",
-    "Price": "$0.41",
+    "MarketCap": "CompoundCOMP",
+    "Price": "$48.91",
     "Volume": ""
   },
   {
@@ -671,64 +636,71 @@
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "GateTokenGT",
-    "Price": "$3.89",
+    "MarketCap": "MinaMINA",
+    "Price": "$0.38",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "Trust Wallet TokenTWT",
-    "Price": "$0.87",
+    "MarketCap": "BitTorrent(New)BTT",
+    "Price": "$0.00",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "Gemini DollarGUSD",
-    "Price": "$1.00",
+    "MarketCap": "KlaytnKLAY",
+    "Price": "$0.11",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "CompoundCOMP",
-    "Price": "$43.18",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "NexoNEXO",
-    "Price": "$0.60",
-    "Volume": ""
-  },
-  {
-    "Symbol": "",
-    "Name": "",
-    "MarketCap": "GMXGMX",
-    "Price": "$37.28",
+    "MarketCap": "CasperCSPR",
+    "Price": "$0.03",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "dYdXDYDX",
-    "Price": "$2.12",
+    "Price": "$1.93",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "Akash NetworkAKT",
-    "Price": "$1.49",
+    "MarketCap": "SuiSUI",
+    "Price": "$0.45",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "WOO NetworkWOO",
-    "Price": "$0.19",
+    "MarketCap": "GateTokenGT",
+    "Price": "$3.66",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "GMXGMX",
+    "Price": "$37.47",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "GalaGALA",
+    "Price": "$0.01",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "Trust Wallet TokenTWT",
+    "Price": "$0.78",
     "Volume": ""
   },
   {
@@ -741,22 +713,50 @@
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "AstarASTR",
-    "Price": "$0.07",
+    "MarketCap": "NexoNEXO",
+    "Price": "$0.55",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
     "MarketCap": "DashDASH",
-    "Price": "$26.72",
+    "Price": "$26.91",
     "Volume": ""
   },
   {
     "Symbol": "",
     "Name": "",
-    "MarketCap": "FlareFLR",
-    "Price": "$0.01",
+    "MarketCap": "Gemini DollarGUSD",
+    "Price": "$1.00",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "WOO NetworkWOO",
+    "Price": "$0.17",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "PepePEPE",
+    "Price": "$0.00",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "ArweaveAR",
+    "Price": "$4.23",
+    "Volume": ""
+  },
+  {
+    "Symbol": "",
+    "Name": "",
+    "MarketCap": "1inch Network1INCH",
+    "Price": "$0.27",
     "Volume": ""
   }
 ]
